@@ -10,7 +10,7 @@
 
 - **Lenguajes de Programación**: JavaScript.
 - **Soporte Técnico**: Experiencia en configuración y soporte de hardware y software.
-- **Desarrollo Web**: Creación de sitios web en HTML, CSS, ReactJS, y React Native; exploración y aprendizaje continuo en APEX.
+- **Desarrollo Web**: Creación de sitios web en HTML, CSS, ReactJS, y React Native; exploración y Oracle APEX.
 
 ---
 
