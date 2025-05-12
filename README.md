@@ -2,7 +2,7 @@
 
 ### 🖥️ Técnico Medio en Configuración y Soporte
 
-¡Hola! Soy de Costa Rica y me especializo en informática junto con mi carrera en ajedrez. Con experiencia en soporte técnico y un sólido conocimiento en programación, estoy en constante desarrollo profesional en tecnología y automatización. Mis habilidades abarcan desde configuraciones de sistemas hasta desarrollo web en JavaScript.
+Me especializo en informática junto con mi carrera en ajedrez. Con experiencia en soporte técnico y un sólido conocimiento en programación, estoy en constante desarrollo profesional en tecnología y automatización. Mis habilidades abarcan desde configuraciones de sistemas hasta desarrollo web en JavaScript.
 
 ---
 
